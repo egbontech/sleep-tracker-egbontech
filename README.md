@@ -1,5 +1,12 @@
 # 🌙 Sleep Tracker - Full Stack Web Application
 
+
+
+
+<img width="1280" height="720" alt="sleep-tracker" src="https://github.com/user-attachments/assets/09119fa6-a1df-4ea9-b6fe-4c3b5ee4ed52" />
+
+
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![React](https://img.shields.io/badge/React-19-61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6)
