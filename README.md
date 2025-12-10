@@ -10,8 +10,7 @@
 A modern, full-stack sleep tracking application with a beautiful dashboard, built with Next.js 16, Supabase, and Tailwind CSS. Track your sleep patterns, visualize trends, and gain insights into your sleep quality.
 
 
-## 📺 Tutorial Video
-[![YouTube Tutorial](https://youtu.be/_clDy2Be0ZI)
+[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Watch_Tutorial-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/_clDy2Be0ZI)
 
 ## 🚀 Features
 
