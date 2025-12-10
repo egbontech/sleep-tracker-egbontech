@@ -1,7 +1,7 @@
 # 🌙 Sleep Tracker - Full Stack Web Application
 
-![Next.js](https://img.shields.io/badge/Next.js-14-black)
-![React](https://img.shields.io/badge/React-18-61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![React](https://img.shields.io/badge/React-19-61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-06B6D4)
